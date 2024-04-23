@@ -5,12 +5,15 @@ Check out our project at [graphical networks](https://graphicalnetworks.com/).
 
 
 Check out our DCIM project at [graphical networks DCIM](https://graphicalnetworks.com/products/netterrain-dcim/).
+What's netTerrain DCIM? It's data center capacity and insights made easy. 
 
 
-Check out our network diagram software project at [graphical networks](https://graphicalnetworks.com/products/netterrain-logical/).
+Check out netTerrain Logical, our network diagram software project at [graphical networks](https://graphicalnetworks.com/products/netterrain-logical/).
+What's netTerrain Logical? Network insights and visibility made easy. 
 
 
-Check out our fiber mapping software project at [graphical networks](https://graphicalnetworks.com/](https://graphicalnetworks.com/products/netterrain-osp/).
+Check out netTerrain OSP, our fiber mapping software project at [graphical networks](https://graphicalnetworks.com/](https://graphicalnetworks.com/products/netterrain-osp/).
+What's netTerrain OSP? Complete fiber plant visibility at your fingertips. 
 
 
 <!---
