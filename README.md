@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hannahash1
 - 👀 I’m interested in ... network diagram software, data center infrastructure management (DCIM), and fiber mapping software!.
 
-Check out our project at [graphical networks](https://graphicalnetworks.com/).
+Check out our project at [Graphical Networks: DCIM Software](https://graphicalnetworks.com/).
 
 
 Check out our DCIM project at [graphical networks DCIM](https://graphicalnetworks.com/products/netterrain-dcim/).
